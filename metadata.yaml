@@ -1,15 +1,21 @@
 _repo: Captivity-and-Escape_49347
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Randell, V. A.
     gutenberg_agent_id: '45277'
     url: http://www.gutenberg.org/2009/agents/45277
+covers:
+- cover_type: archival
+  image_path: 49347-h/images/cover.jpg
 creator:
   author:
     agent_name: Martin, M. Jean
     gutenberg_agent_id: '45276'
     url: http://www.gutenberg.org/2009/agents/45276
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49347#Captivity-and-Escape
 gutenberg_issued: '2015-07-02'
 gutenberg_type: Text
 identifiers:
